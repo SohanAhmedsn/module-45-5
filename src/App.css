@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.person{
+  background-color: yellowgreen;
+  border: 5px solid orangered;
+  border-radius: 5px;
+  color:white;
+  margin: 15px;
+} 
